@@ -64,9 +64,8 @@ echo
 ## Default: Commit skipped|forgotten
 
 # 2018.May26
-git "first formal release"
+git commit -m  "first formal release"
 
-git commit -m "💚 RELEASE 1.0.0.May26.2018: first formal release"
 
 ############
 # Step: 05 #
