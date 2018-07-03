@@ -63,8 +63,11 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 
-# 2018.May26
-git commit -m  "first formal release"
+# July 3, 2018
+## ADDED generic-dashboard-priyo
+## ADDED completed-tasks
+
+git commit -m  "ADDED completed-tasks"
 
 
 ############
